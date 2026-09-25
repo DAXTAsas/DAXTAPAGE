@@ -1,0 +1,10 @@
+{
+  "description": "Collect and analyze data from youth in Tabio, providing insights for businesses and institutions to better understand community needs and trends.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
